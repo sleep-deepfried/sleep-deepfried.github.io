@@ -5,12 +5,17 @@
     color: #000000;
     max-width: 1440px;
     max-height: 1024px;
-    
     }
 
 body {
-    overflow-x: hidden; /* Hide scrollbars */
+    overflow-x: hidden;
+    background-image: url("assets/Ellipse 68.png");
+    background-repeat: no-repeat;
+    background-position-x: 835px;
+    background-position-y: -188px;
     }
+
+
 
 nav{
     display: flex;
